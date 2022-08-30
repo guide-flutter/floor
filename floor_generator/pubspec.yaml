@@ -16,7 +16,10 @@ dependencies:
   code_builder: ^4.1.0
   collection: ^1.15.0
   floor_annotation:
-    path: ../floor_annotation/
+    git:
+      url: https://github.com/guide-flutter/floor.git
+      ref: 4e3562d1b41d369d4230122a6d42be426eed31d6
+      path: floor_annotation
   meta: ^1.7.0
   source_gen: ^1.2.2
   strings: ^0.2.1
