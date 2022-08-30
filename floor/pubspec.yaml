@@ -13,7 +13,7 @@ dependencies:
   floor_annotation:
     git:
       url: https://github.com/guide-flutter/floor.git
-      ref: 14bcb093dd0b5d266d7b8ed099cf3c9954c452d5
+      ref: d7b71b2147c9ae919e6e3ee987245830ca1056e7
       path: floor_annotation
   flutter:
     sdk: flutter
@@ -28,7 +28,7 @@ dev_dependencies:
   floor_generator:
     git:
       url: https://github.com/guide-flutter/floor.git
-      ref: 14bcb093dd0b5d266d7b8ed099cf3c9954c452d5
+      ref: d7b71b2147c9ae919e6e3ee987245830ca1056e7
       path: floor_generator
   flutter_test:
     sdk: flutter
